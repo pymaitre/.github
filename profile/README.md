@@ -4,25 +4,25 @@ It is like a Maitre, not visible but present needed for an efficient and agile i
 with different tecnical profiles and from different institutes helping each other for the same scope.
 
 Tools implemented for images (e.g., CT):
-1) dcm_folder
+1) **dcm_folder**:
 Python library for DICOM folder organization.
-2) dcm_anonymize
+2) **dcm_anonymize**:
 Code to anonimize dicom files in parallel.
-3) srmip
+3) **srmip**:
 Python library for Medical Image Processing (MIP).
-4) libsrdl
+4) **libsrdl**:
 Package for DL librabry applied to medical physics, applications for segmentation.
 
 Tools implemented for databases:
-1) SQLHub
+1) **SQLHub**:
 Code dealing with the interaction between analysis in Python and databases stored in SQL servers.
-2) DBpromod
+2) **DBpromod**:
 Python library for database preprocessing.
-3) DBanalysis
+3) **DBanalysis**:
 Python library for AI models, optimization and boostrapping tecniques.
-4) DBoutputs
+4) **DBoutputs**:
 Python library for saving plots and Excel databases.
-5) medicalAI
+5) **medicalAI**:
 It uses the cited in-house DB codes to preprocess data, select best features (e.g. bootstrap or backward feature selection), 
 run models (logit and more complex AI models), extract plots (e.g., ROC, PR, calibration map) and perform prediction on new data.
 
