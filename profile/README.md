@@ -4,11 +4,11 @@ It is like a Maitre, not visible but present needed for an efficient and agile i
 with different tecnical profiles and from different institutes helping each other for the same scope.
 
 Tools implemented for images (e.g., CT):
-1) **dcm_folder**:
+1) **[dcm_folder]()**:
 Python library for DICOM folder organization.
 2) **dcm_anonymize**:
 Code to anonimize dicom files in parallel.
-3) **srmip**:
+3) **[srmip](https://pymaitre.github.io/srmip)**:
 Python library for Medical Image Processing (MIP).
 4) **libsrdl**:
 Package for DL librabry applied to medical physics, applications for segmentation.
