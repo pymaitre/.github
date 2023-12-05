@@ -14,15 +14,15 @@ Python library for Medical Image Processing (MIP).
 Package for DL librabry applied to medical physics, applications for segmentation.
 
 Tools implemented for databases:
-a) SQLHub
+1) SQLHub
 Code dealing with the interaction between analysis in Python and databases stored in SQL servers.
-b) DBpromod
+2) DBpromod
 Python library for database preprocessing.
-c) DBanalysis
+3) DBanalysis
 Python library for AI models, optimization and boostrapping tecniques.
-d) DBoutputs
+4) DBoutputs
 Python library for saving plots and Excel databases.
-e) medicalAI
+5) medicalAI
 It uses the cited in-house DB codes to preprocess data, select best features (e.g. bootstrap or backward feature selection), 
 run models (logit and more complex AI models), extract plots (e.g., ROC, PR, calibration map) and perform prediction on new data.
 
