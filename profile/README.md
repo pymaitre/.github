@@ -3,7 +3,7 @@ This organization is ment to have private tools for research aimed to help medic
 It is like a Maitre, not visible but present needed for an efficient and agile interaction with clinics. The idea behind is that we can have different maitres, 
 with different tecnical profiles and from different institutes helping each other for the same scope.
 
-Tools implemented for images (e.g., CT):
+Private libraries implemented for images (e.g., CT):
 1) **[dcm_folder](https://pymaitre.github.io/dcm_folder)**:
 Python library for DICOM folder organization.
 2) **[dcm_anonymize](https://pymaitre.github.io/dcm_anonymize)**:
@@ -13,7 +13,7 @@ Python library for Medical Image Processing (MIP).
 4) **[libsrdl](https://pymaitre.github.io/libsrdl)**:
 Package for DL librabry applied to medical physics, applications for segmentation.
 
-Tools implemented for databases:
+Private libraries implemented for databases:
 1) **[SQLHub](https://pymaitre.github.io/SQLHub)**:
 Code dealing with the interaction between analysis in Python and databases stored in SQL servers.
 2) **DBpromod**:
