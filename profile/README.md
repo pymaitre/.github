@@ -30,3 +30,6 @@ B. Private libraries implemented for databases:
 REFERENCE PAPERS:
 - Ubeira-Gabellini et al. 2024 (in prep.) using medicalAI
 - Pavarini et al. 2024 (in prep.) using medicalAI
+
+NOTES:
+The documentation is under construction.
