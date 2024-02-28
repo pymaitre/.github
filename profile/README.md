@@ -28,7 +28,7 @@ B. Private libraries implemented for databases:
   run models (logit and more complex AI models), extract plots (e.g., ROC, PR, calibration map) and perform prediction on new data.
 
 REFERENCE PAPERS:
-- Ubeira-Gabellini et al. 2024 (in prep.) using medicalAI
+- [Ubeira-Gabellini et al. 2024](https://doi.org/10.3390/cancers16050934) (Cancers 2024, 16(5), 934, doi: https://doi.org/10.3390/cancers16050934) using medicalAI
 - Pavarini et al. 2024 (in prep.) using medicalAI
 
 NOTES:
