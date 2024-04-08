@@ -3,6 +3,7 @@ This organization is ment to have private tools for research aimed to help medic
 It is like a Maitre, not visible but present needed for an efficient and agile interaction with clinics. The idea behind is that we can have different maitres, 
 with different tecnical profiles and from different institutes helping each other for the same scope.
 Link to repositories are public documentation of them, the code is instead private.
+![pymaitre_qr_code](https://github.com/pymaitre/.github/assets/54425586/89633b96-2f83-4e4c-a6c9-8c95b5f5b2a7)
 
 A. Private libraries implemented for images (e.g., CT):
   1) **[dcm_folder](https://pymaitre.github.io/dcm_folder)**:
