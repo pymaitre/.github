@@ -4,7 +4,7 @@ It is like a Maitre, not visible but present needed for an efficient and agile i
 with different tecnical profiles and from different institutes helping each other for the same scope.
 Link to repositories are public documentation of them, the code is instead private.
 
-![pymaitre_qr_code](https://github.com/pymaitre/.github/assets/54425586/3a020419-3e9a-4d88-a0fc-afa52b3cd639)
+![pymaitre_qr_code](https://github.com/pymaitre/.github/blob/main/profile/pymaitre_qrcode.png)
 
 A. Private libraries implemented for images (e.g., CT):
   1) **[dcm_folder](https://pymaitre.github.io/dcm_folder)**:
